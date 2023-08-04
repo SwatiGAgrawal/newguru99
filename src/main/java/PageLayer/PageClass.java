@@ -12,6 +12,8 @@ public class PageClass extends BaseClass {
 
 	@FindBy(name="firstName")
 	private WebElement firstname;
+	
+	
 
 	public PageClass() {
 
@@ -24,4 +26,6 @@ public class PageClass extends BaseClass {
 		sendData(firstname,name);
 		
 	}
+	
+	
 }

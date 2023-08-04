@@ -19,5 +19,8 @@ public class RegisterStepDefination extends BaseClass {
 		pageclass.registerPageFuctinality("swati");
 	   
 	}
+	
+	
+
 
 }
