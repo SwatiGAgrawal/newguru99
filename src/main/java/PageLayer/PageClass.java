@@ -12,6 +12,7 @@ public class PageClass extends BaseClass {
 
 	@FindBy(name="firstName")
 	private WebElement firstname;
+	
 
 	public PageClass() {
 
